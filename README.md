@@ -1,7 +1,7 @@
 
 # HEAL: Harmonizing Efficient Alignment with RLAIF and RLHF for Health AI
 
-HEAL is a framework designed to explore and implement reinforcement learning techniques—Reinforcement Learning from Human Feedback (RLHF) and Reinforcement Learning from AI Feedback (RLAIF)—for aligning Large Language Models (LLMs) in healthcare applications.
+HEAL is a a project-in-progress designed to explore and implement reinforcement learning techniques—Reinforcement Learning from Human Feedback (RLHF) and Reinforcement Learning from AI Feedback (RLAIF)—for aligning Large Language Models (LLMs) in healthcare applications.
 
 This repository includes tools for:
 - Data preprocessing for healthcare datasets like MIMIC-IV and PubMedQA.
@@ -148,3 +148,9 @@ All dependencies are listed in `requirements.txt`.
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
+## Work in Progress 🚧
+
+This repository is under active development, with regular updates expected. Stay tuned for new features and improvements!
