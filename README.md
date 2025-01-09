@@ -1,5 +1,6 @@
 
-# HEAL: Harmonizing Efficient Alignment with RLAIF and RLHF for Health AI
+# ❤️‍🩹 HEAL: Harmonizing Efficient Alignment with RLAIF and RLHF for Health AI
+![Project Overview](https://github.com/seonokkim/HEAL/blob/main/figures/overview.png)
 
 HEAL is a a project-in-progress designed to explore and implement reinforcement learning techniques—Reinforcement Learning from Human Feedback (RLHF) and Reinforcement Learning from AI Feedback (RLAIF)—for aligning Large Language Models (LLMs) in healthcare applications.
 
