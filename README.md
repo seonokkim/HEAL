@@ -150,7 +150,7 @@ All dependencies are listed in `requirements.txt`.
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
----
+
 
 ## Work in Progress 🚧
 
