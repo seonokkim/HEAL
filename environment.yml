@@ -1,0 +1,16 @@
+name: heal
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pytorch
+  - transformers
+  - datasets
+  - accelerate
+  - trl
+  - scikit-learn
+  - numpy
+  - pandas
+  - matplotlib
+  - tqdm
